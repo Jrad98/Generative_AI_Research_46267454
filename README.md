@@ -1,6 +1,6 @@
 # Generative_AI_Research_46267454
 
-Structure 
+## Structure 
 Generative_AI_Research_46267454
 ```
 - Using_Generative_AI_Tools 
@@ -13,9 +13,10 @@ Generative_AI_Research_46267454
     |- scripts
 ```
 
-How to Navigate
+## How to Navigate
 
 Use the folder structure depicted above to navigate this repository.
 
-Collaboration Instructions
+## Collaboration Instructions
+
 Check the issues for what work needs to be completed by collaborators.
