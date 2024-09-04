@@ -14,6 +14,7 @@ Generative_AI_Research_46267454
 ```
 
 How to Navigate
+
 Use the folder structure depicted above to navigate this repository.
 
 Collaboration Instructions
